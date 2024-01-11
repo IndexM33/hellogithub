@@ -1,0 +1,36 @@
+----------------create a repo locally --------------
+1.open a file and run git init. 
+2. open a new repo on github. 
+3. copy the ssh link.
+4. back in git back run git remote add origin "followed by the ssh link"
+5. check it was added type git remote -v
+
+------------copy a repo ---------------------------
+1.find a repo or make one. 
+2.copy the ssh
+3. type git clone followed by ssh 
+4.cd in and start coding. branching etc . 
+
+------------ create branches -------------------
+
+1. git branch "name" (creates branches)
+2. git checkout "name" changes from one branch to another. 
+3. make changes eg. create or eddit files. 
+4. changes must be added for tracking 
+5. git add . or git add "name of file to track"
+6. git commit -m "message" <- the message is compulsory.
+6.  git push origin "branch name"
+7. on git hub check pull requests. 
+8. add descriptions. 
+9. create the pull request
+10. check out the files changed. if everything looks good. then merge. 
+11. delete branch on github.
+12. cmd- git checkout main branch
+13. pull into main branch cmd - git pull origin "mainbranch"
+14. delte old branch
+15. git branch -d "branchname"
+
+
+https://www.youtube.com/watch?v=RGOj5yH7evk
+
+@48.57
