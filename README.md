@@ -10,4 +10,4 @@
 
 ## mistake number 6
 
-## mistake number 7
+## removed mistake number 7
