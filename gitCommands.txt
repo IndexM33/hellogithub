@@ -15,7 +15,7 @@
 
 1. git branch "name" (creates branches)
 2. git checkout "name" changes from one branch to another. 
-3. make changes eg. create or eddit files. 
+3. make changes eg. create or edit files. 
 4. changes must be added for tracking 
 5. git add . or git add "name of file to track"
 6. git commit -m "message" <- the message is compulsory.
